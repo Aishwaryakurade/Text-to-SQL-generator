@@ -117,11 +117,6 @@ Then go to `http://localhost:8501` in your browser.
 * Export results to CSV
 * Add data visualizations (charts, graphs)
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
@@ -137,6 +132,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 * [LangChain](https://www.langchain.com/)
 * [LLaMA 3 via Groq](https://console.groq.com/)
 * [SQLite](https://www.sqlite.org/index.html)
+
 
 
 
